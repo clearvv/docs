@@ -15,11 +15,11 @@
       "to": "#07C983"
     }
   },  
-  "topAnchor":[
-     {
-     	 "name":"使用说明"
-     }
-  ],
+  "topAnchor": 
+  {
+    "name": "使用说明"
+  }
+  ,
   "navigation": [
     {
       "group": "开始使用",
