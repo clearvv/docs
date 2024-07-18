@@ -24,10 +24,7 @@
     {
       "group": "开始使用",      
       "pages": [
-        {
-          "group": "安装",
-          "pages": ["introduction"]
-        },
+        "introduction",
         "quickstart",
         "development"
       ]
