@@ -15,7 +15,7 @@
   ],
   "security": [
     {
-      "bearerAuth": []
+      "bearerAuth": ["mint_dsc_3ZSeJurrCFyQhEijYx3GqwTi"]
     }
   ],
   "paths": {
