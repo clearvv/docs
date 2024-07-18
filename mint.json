@@ -22,9 +22,12 @@
   ,
   "navigation": [
     {
-      "group": "开始使用",
+      "group": "开始使用",      
       "pages": [
-        "Introduction",
+        {
+          "group": "安装",
+          "pages": ["introduction"]
+        },
         "quickstart",
         "development"
       ]
